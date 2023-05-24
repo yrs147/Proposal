@@ -316,7 +316,7 @@ exporter/
 
 ### Metics Definition
 
-![Screenshot 2023-05-24 163138](https://github.com/yrs147/Proposal/assets/98258627/af7e03cb-a26a-47fe-8f78-398456ae1fca)
+![Screenshot 2023-05-24 184533](https://github.com/yrs147/Proposal/assets/98258627/fc86312e-f485-4d19-a634-ed78c36fe283)
 
 
 
