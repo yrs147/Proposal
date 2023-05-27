@@ -1,10 +1,11 @@
 ## Personal Information
-- Name : Yash Raj Singh 
-- Email : yashraj02.mail@gmail.com
-- Github : [yrs147](https://github.com/yrs147)
-- LinkedIN : [y-r-s](https://www.linkedin.com/in/y-r-s/)
-- University : Delhi University
-- Major : Computer Science
+- **Name** : Yash Raj Singh 
+- **Email** : yashraj02.mail@gmail.com
+- **Github** : [yrs147](https://github.com/yrs147)
+- **LinkedIN** : [y-r-s](https://www.linkedin.com/in/y-r-s/)
+- **Resume** : [Link](https://drive.google.com/file/d/1yd5P0jc5VVIRmYHb8He8Jpo0l5GAYtGx/view?usp=sharing)
+- **University** : Delhi University
+- **Major** : Computer Science
 ## Project Abstract
 Kubescape has a component that runs in-cluster which performs image scanning on all the container images deployed to a cluster. This function is largely used to send the data to an external service. In this projet, you will develop a Prometheus exporter for the image vulnerability information produced by Kubescape. This will allow users to access the data from within the cluster, as well as use it for alerting.
 ### Expected Outcome 
